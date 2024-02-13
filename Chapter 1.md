@@ -102,7 +102,3 @@ Making life better for the engineering and operations teams who need to work wit
 
 
 
-This repo includes several notes when I'm leaning the book "Designing Data-Intensive Applications"
-
-
-
